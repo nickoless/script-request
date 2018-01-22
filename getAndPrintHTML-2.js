@@ -20,10 +20,5 @@ var opts = {
   path: '/http-examples/step2.html'
 };
 
-// function myCallback (data) {
-//   console.log('my data:', data);
-// }
-
-
 getAndPrintHTMLChunks(opts);
 
